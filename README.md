@@ -1,7 +1,5 @@
 ﻿# Game-3D-Game-Final
-<br>
-<br>
-<br>
+
 ## Ideias 3D Game - Final Game
 
 <p> Entrega: 00/00/0000 </p>
