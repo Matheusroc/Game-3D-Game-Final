@@ -18,7 +18,7 @@
   <li>1 inimigo</li>
   <li>Proibido I.A</li>
   <li>Forma geométrica</li>
-  <li></li>
+  <li>Hexagano</li>
   <li></li>
 </ul>
 
