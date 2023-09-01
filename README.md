@@ -17,7 +17,7 @@
   <li>1 personagem</li>
   <li>1 inimigo</li>
   <li>Proibido I.A</li>
-  <li></li>
+  <li>Forma geométrica</li>
   <li></li>
   <li></li>
 </ul>
