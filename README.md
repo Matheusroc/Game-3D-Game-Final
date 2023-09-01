@@ -8,5 +8,6 @@
 
 
 
-<p>Recomendamos este jogo/game para pessoas e crianças acima de 10 anos, por questões de sexualidade, drogas, violência, influência, e por questões de sustos, e traumas.</p>
+<p>Este jogo é indicado para pessoas e crianças acima de 10 anos, por questões de sexualidade, drogas, violência, influência, e por questões de sustos, e traumas.</p>
+
 
